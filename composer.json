@@ -45,4 +45,7 @@
             "dev-master": "0.17-dev"
         }
     }
+    "replace": {
+    "jms/serializer": "~0.11"
+  }
 }
